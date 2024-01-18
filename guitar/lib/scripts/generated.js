@@ -1,1 +1,1 @@
-let nodes={paths:["how-to-use-jtab.html"],nodeCount:1,linkSources:[],linkTargets:[],labels:["How to use JTAB"],radii:[null],linkCount:0},attractionForce=1,linkLength=10,repulsionForce=150,centralForce=3,edgePruning=100
+let nodes={paths:["repo.html"],nodeCount:1,linkSources:[],linkTargets:[],labels:["Repo"],radii:[null],linkCount:0},attractionForce=1,linkLength=10,repulsionForce=150,centralForce=3,edgePruning=100
