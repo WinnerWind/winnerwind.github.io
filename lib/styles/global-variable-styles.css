@@ -1,0 +1,1 @@
+:root body{--line-width:min(80em, calc(100vw - 2em));--line-width-adaptive:min(80em, calc(100vw - 2em));--file-line-width:min(80em, calc(100vw - 2em));--sidebar-width:min(20em, 80vw)}body{--zoom-factor:1!important;--accent-h:121!important;--accent-s:47%!important;--accent-l:50%!important;--font-text-size:16px}
