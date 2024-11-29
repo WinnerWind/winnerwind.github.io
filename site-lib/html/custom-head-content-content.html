@@ -1,0 +1,10 @@
+<script>
+    ObsidianSite.onDocumentLoad((doc) => {
+        var footer = document.createElement("h1");
+        footer.innerText = "END OF FILE";
+        doc.footerEl.appendChild(footer);
+        footer = document.createElement("div");
+        footer.innerHTML = "Please <a href=\"https://winnerwind.github.io/contact.html\">contact me</a> in case of errors, or if you just want to comment on something.";
+        doc.footerEl.appendChild(footer);
+    });
+</script>
